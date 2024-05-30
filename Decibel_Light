@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "Initial commit with _2024_05_30_01_25_23"
+git remote add origin https://github.com/Decibel_Light/_2024_05_30_01_25_23.git
+git push -u origin master
+
+
